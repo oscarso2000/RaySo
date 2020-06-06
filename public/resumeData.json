@@ -1,25 +1,23 @@
 {
   "main": {
-    "name":"Tim Baker",
+    "name":"Finance Entry",
     "occupation":"(Your Occupation Here)",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "finance_entry@yahoo.com",
+    "phone": "+852 9030 0891",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Hong Kong"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.financeentry.com.hk",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/FinanceEntry",
         "className":"fa fa-facebook"
       },
       {
@@ -29,22 +27,22 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"http://googleplus.com/",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/",
         "className":"fa fa-github"
       },
       {
@@ -112,6 +110,22 @@
       {
         "name":"MongoDB",
         "level":"80%"
+      }
+    ]
+  },
+  "courses":{
+    "classes":[
+      {
+        "title": "Junior Financial Analyst",
+        "duration": "2 Weeks",
+        "time": "Mon-Fri 10:00am - 1:00pm",
+        "language": "Cantonese supplemented w/ English",
+        "fee": "$4500HKD",
+        "background": "This course is designed to teach students, who have passion in financial industry, the basic knowledge of finance and different job functionalities. \n學員將會被安排面對面與不同金融專業人任接觸和交談。課程將介紹現時金融界的基本概念，能讓學員認識到市場、銀行、證券公司和交易所；資本轉移，各類證券以及投資決策過程的知識。此外，課程內容亦會介紹投資決策於股票上所用的工具，以及基本會計概念和Execl的使用方法，從而令學員學習到基礎分析、技術分析和流程分析的技巧。課程概念將透過案例研究和使用本地市場例子作解說。",
+        "topics": "This 2 -week course will cover: \nIntroduction of financial market; Investment Bank vs Commercial Bank \nThe need for Capital market; Introduction of types of securities \nHow to Analyze a Company? \nBasic Accounting \nIntroduction to Excel Modeling \nIntroduction of different job types in financial market and MEET the Professionals \nHK Exchange & Clearing Visit",
+        "location": "TBD",
+        "instructor": "Ray So",
+        "about": "Mr. So 為量智學院有限公司的其中一位創辦人。學院致力於為青少年提供財務和技術技能，為新時代的挑戰和機遇做好準備。學院主要著重於非傳統的教育，不能從常規高中教育中吸取的知識。Mr. So 亦於 HKU SPACE 任教多年，主要教授金融課程，有多年教育經驗. \n Mr. So was working in the financial industry for over 18 years at various reputable Investment Banks such as Goldman Sachs, Merrill Lynch, Nomura, ING Bank and Deutsche Bank."
       }
     ]
   },
